@@ -1,0 +1,60 @@
+Show HN: G-Fu – a pragmatic Lisp embedded in Go
+https://github.com/codr7/g-fu/tree/master/v1
+The lingua franca of LaTeX
+https://increment.com/open-source/the-lingua-franca-of-latex/
+Smartphones Are Toys First, Tools Second
+https://www.raptitude.com/2019/05/smartphones-are-toys-first-tools-second/
+Static Web – Back to the Roots
+https://blog.callr.tech/static-web-roots/
+Apple's WebKit team proposes a way ads can be measured while maintaining privacy
+https://www.theregister.co.uk/2019/05/22/apple_browser_privacy_scheme/
+OKRs from a development team’s perspective
+https://zafulabs.com/2019/05/24/okrs-from-a-development-teams-perspective/
+JLua: Yet another Lua implementation in JavaScript
+https://github.com/hsiaosiyuan0/jlua
+VPN service for hosting public-facing services on non-hosting ISP circuits
+https://holepunch.io/
+First American Financial Corp. Leaked Hundreds of Millions of Insurance Records
+https://krebsonsecurity.com/2019/05/first-american-financial-corp-leaked-hundreds-of-millions-of-title-insurance-records/
+What's the difference between 0/0 and 1/0?
+https://blog.plover.com/math/division-by-zero.html
+What Happened to 'Miegakure,' the Game That Promised the 4th Dimension? (2018)
+https://www.vice.com/en_us/article/9kmknd/what-happened-to-miegakure-the-game-that-promised-the-4th-dimension
+Pip3 install videoflow – new Python library to do computer vision on video
+https://github.com/videoflow/videoflow
+Facebook: Another three billion fake profiles culled
+https://www.bbc.co.uk/news/technology-48380504
+Show HN: Sourcetrail – Visual Source Explorer Now Supports Python
+https://www.sourcetrail.com/
+Murray Gell-Mann Has Died
+https://www.nytimes.com/2019/05/24/obituaries/murray-gell-mann-died-.html
+Why Does Windows Really Use Backslash as Path Separator?
+http://www.os2museum.com/wp/why-does-windows-really-use-backslash-as-path-separator/
+5M Bid request/s, 2ms max response time – The Road to Damascus
+https://github.com/eloraiby/fs-pacer/blob/master/fs-pacer.md
+Beta: Tool for a Linguist
+https://github.com/koskenni/beta/blob/master/betaref.md
+Stronger than aluminum, a heavily altered wood cools passively
+https://arstechnica.com/science/2019/05/chemically-treated-wood-could-send-excess-heat-to-space/
+Prospecting for gold by looking in leaves has proven itself in Australia
+https://www.economist.com/science-and-technology/2019/05/25/if-youre-looking-for-gold-look-in-trees
+The low-down on home routers – how to buy, what to avoid
+http://esr.ibiblio.org/?p=8330
+Ship spies largest underwater eruption ever
+https://www.sciencemag.org/news/2019/05/ship-spies-largest-underwater-eruption-ever
+Show HN: Uranus – Memo and Task App
+https://github.com/resotto/uranus
+Combining finances
+https://blog.mitchjlee.com/2019/combining-finances
+Does open-source cryptographic software work correctly? [pdf]
+https://cr.yp.to/talks/2019.05.16/slides-djb-20190516-correctly-4x3.pdf
+How Phonies and self-promoters came to rule the world
+https://www.theage.com.au/business/banking-and-finance/how-phonies-and-self-promoters-came-to-rule-the-world-20190521-p51pm4.html
+Algorithm Solves Graph Isomorphism in Record Time (2015)
+https://www.quantamagazine.org/algorithm-solves-graph-isomorphism-in-record-time-20151214/
+Robinhood Is Set to Raise at Least $200 Million in New Funding
+https://www.bloomberg.com/news/articles/2019-05-24/robinhood-is-set-to-raise-at-least-200-million-in-new-funding?srnd=premium
+Maker of US border's license-plate scanning tech ransacked by hacker
+https://www.theregister.co.uk/2019/05/23/perceptics_hacked_license_plate_recognition/
+Making a Game Boy Game in 2017
+https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/Making_a_Game_Boy_game_in_2017_A_quotSheep_It_Upquot_PostMortem_part_12.php
